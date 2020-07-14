@@ -1,6 +1,6 @@
 <b>Dice-Game-Pig</b>
 
-Simple Dice Game created by vanilla javascript that runs in browser using HTML , CSS 
+Simple Dice Game created by vanilla javascript that runs in browser
 
 
 <h2>GAME RULES</h2>:
